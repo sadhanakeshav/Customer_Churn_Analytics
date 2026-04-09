@@ -69,8 +69,4 @@ This project shows how a well-designed Power BI dashboard can:
 💡 UNDERSTANDING CHURN. PREVENTING LOSS. BUILDING LOYALTY.
 </p>
 
----
 
-<p align="center">
-💡 FROM CHURN PREDICTION TO RETENTION STRATEGY - DATA-DRIVEN CUSTOMER LOYALTY.
-</p>
